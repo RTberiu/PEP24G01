@@ -1,0 +1,1 @@
+from Modul5.Pachet.test import var1, test_function

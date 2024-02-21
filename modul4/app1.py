@@ -24,6 +24,9 @@ def cpass():
         condition_not = True
     if condition_not:
         cpass()
+
+    # if __name__ == "__main__":
+
 cpass()
 
 # my_str = "abcd1232"
